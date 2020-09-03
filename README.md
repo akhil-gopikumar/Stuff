@@ -1,3 +1,2 @@
-# Stuff
-I have been working on various platforms with c++ as a base. 
-One project is done using Python with the help of sklearn package
+# Tic Tac Toe
+Thisis a tictactoe game built using c++ in windows. Uses WIN32 API architechture and GDI++
